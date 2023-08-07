@@ -12,15 +12,15 @@ This program will ask binary number input with maximum 8 binary digits, then wil
 
 Input binary num = 10 => decimal number 2
 -   (0 * 2^0) + (1 * 2^1) 
-    = (0 * 1) + (1 * 2) 
-    = 0 + 2 
-    = 2
+    <br>= (0 * 1) + (1 * 2) 
+    <br>= 0 + 2 
+    <br>= 2
 
 Input binary num = 101 => decimal number 5
 -   (1 * 2^0) + (0 * 2^1) + (1 * 2^2)
-    = (1 * 1) + (0 * 2) + (1 * 4)
-    = 1 + 0 + 4
-    = 5
+    <br>= (1 * 1) + (0 * 2) + (1 * 4)
+    <br>= 1 + 0 + 4
+    <br>= 5
 
 ## Challenges
 
